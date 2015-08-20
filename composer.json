@@ -1,0 +1,48 @@
+{
+    "name": "ahnames/hiam",
+    "type": "project",
+    "description": "AHnames HIAM",
+    "keywords": [
+        "ahnames",
+        "hiam",
+        "login",
+        "access management"
+    ],
+    "homepage": "https://ahnames.com/",
+    "license": "No license",
+    "support": {
+        "email": "support@ahnames.com",
+        "source": "https://github.com/ahnames/hiam",
+        "issues": "https://github.com/ahnames/hiam/issues",
+        "wiki": "https://github.com/ahnames/hiam/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require": {
+        "php": "~5.4",
+        "filsh/yii2-oauth2-server": "*@dev",
+        "hiqdev/yii2-hiam-authclient": "*@dev"
+    },
+    "require-dev": {
+        "yiisoft/yii2-codeception": "*",
+        "yiisoft/yii2-debug": "*",
+        "yiisoft/yii2-gii": "*",
+        "yiisoft/yii2-faker": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ahnames\\hiam\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
