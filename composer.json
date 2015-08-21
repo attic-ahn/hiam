@@ -27,6 +27,7 @@
         "php": "~5.4",
         "hiqdev/hiam-core": "*@dev",
         "hiqdev/yii2-hiam-authclient": "*@dev",
+        "hiqdev/yii2-theme-adminlte": "*@dev",
         "filsh/yii2-oauth2-server": "*@dev"
     },
     "require-dev": {
