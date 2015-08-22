@@ -3,10 +3,12 @@ ahnames/hiam commits history
 
 ## Under development
 
-- Added favicon.ico at backend
-    - 044769d 2015-08-22 + favicon at backend (sol@hiqdev.com)
+- Added proper gitignores for runtimes
+    - 2d61a52 2015-08-22 + proper gitignores for runtimes (sol@hiqdev.com)
 - Removed excessive .gitignore files
     - b69a33d 2015-08-22 simplifying gitignore files (sol@hiqdev.com)
+- Added favicon.ico at backend
+    - 044769d 2015-08-22 + favicon at backend (sol@hiqdev.com)
 - Added requires for adminlte theme and ahnames assets
     - 9c91664 2015-08-22 + require plugin/theme/menu managers and ahnames asset (sol@hiqdev.com)
     - 7c27d68 2015-08-21 + use of yii2-asset-ahnames/src/config/params.php for common/config/params.php (sol@hiqdev.com)
