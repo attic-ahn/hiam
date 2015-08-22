@@ -3,6 +3,10 @@ ahnames/hiam commits history
 
 ## Under development
 
+- Added requires for adminlte theme and ahnames assets
+    - 9c91664 2015-08-22 + require plugin/theme/menu managers and ahnames asset (sol@hiqdev.com)
+    - 7c27d68 2015-08-21 + use of yii2-asset-ahnames/src/config/params.php for common/config/params.php (sol@hiqdev.com)
+    - 618e25a 2015-08-21 + reqire hiqdev/yii2-theme-adminlte (sol@hiqdev.com)
 - Added basics
     - ea4ed7f 2015-08-20 php-cs-fixed (sol@hiqdev.com)
     - 393e02d 2015-08-20 + require hiam-core (sol@hiqdev.com)

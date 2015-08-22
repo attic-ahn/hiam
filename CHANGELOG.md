@@ -3,6 +3,7 @@ ahnames/hiam changelog
 
 ## Under development
 
+- Added requires for adminlte theme and ahnames assets
 - Added basics
 - Inited
 
