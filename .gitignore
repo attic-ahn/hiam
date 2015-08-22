@@ -22,3 +22,5 @@ Thumbs.db
 
 # environmental files
 yii
+*/web/index*.php
+*/config/*-local*
