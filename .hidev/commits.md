@@ -4,6 +4,7 @@ ahnames/hiam commits history
 ## Under development
 
 - Added proper gitignores for runtimes
+    - 2c99e38 2015-08-31 php-cs-fixed (sol@hiqdev.com)
     - 2d61a52 2015-08-22 + proper gitignores for runtimes (sol@hiqdev.com)
 - Removed excessive .gitignore files
     - b69a33d 2015-08-22 simplifying gitignore files (sol@hiqdev.com)
