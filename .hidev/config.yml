@@ -1,13 +1,12 @@
 package:
-    name:           hiam
-    label:          AHnamesHIAM
-    title:          AHnames HIAM
     type:           project
-    homepage:       https://ahnames.com/
+    name:           hiam
+    title:          This is AHnames realization of HIAM
+    headline:       AHnames HIAM
     keywords:       ahnames, hiam, login, access management
-    year:           2015
-    description:    This is AHnames realization of HIAM
+    namespace:      ahnames\hiam
+    src:            ''
 
 require:
-    ahnames/hidev-config:       "*"
-    hiqdev/hidev-config-php:    "*"
+    hiqdev/hidev-php:     "*"
+    ahnames/hidev-vendor: "*@dev"

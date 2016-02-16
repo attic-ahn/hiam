@@ -1,14 +1,14 @@
 {
     "name": "ahnames/hiam",
     "type": "project",
-    "description": "AHnames HIAM",
+    "description": "This is AHnames realization of HIAM",
     "keywords": [
         "ahnames",
         "hiam",
         "login",
         "access management"
     ],
-    "homepage": "https://ahnames.com/",
+    "homepage": "https://github.com/ahnames/hiam",
     "license": "No license",
     "support": {
         "email": "support@ahnames.com",

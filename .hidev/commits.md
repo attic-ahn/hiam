@@ -3,6 +3,7 @@ ahnames/hiam commits history
 
 ## Under development
 
+    - e0fd280 2016-02-16 + passwordResetPage app parameter to change 'I forgot my password' link (sol@hiqdev.com)
 - Added proper gitignores for runtimes
     - 2c99e38 2015-08-31 php-cs-fixed (sol@hiqdev.com)
     - 2d61a52 2015-08-22 + proper gitignores for runtimes (sol@hiqdev.com)
