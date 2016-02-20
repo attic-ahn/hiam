@@ -1,12 +1,15 @@
 package:
-    type:           project
+    type:           library
     name:           hiam
     title:          This is AHnames realization of HIAM
     headline:       AHnames HIAM
     keywords:       ahnames, hiam, login, access management
     namespace:      ahnames\hiam
-    src:            ''
+    description:    |
+        [HIAM](http://hiqdev.com/hiam) is the Identity and Access Management server.
+
+        This package provides HIAM for [AHnames](http://ahnames.com) domain registrar.
 
 require:
     hiqdev/hidev-php:     "*"
-    ahnames/hidev-vendor: "*@dev"
+    ahnames/hidev-vendor: "*"
