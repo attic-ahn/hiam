@@ -10,7 +10,7 @@
  */
 
 return array_merge(
-    require(Yii::getAlias('@project/vendor/ahnames/yii2-asset-ahnames/src/config/params.php')),
+    require(Yii::getAlias('@vendor/ahnames/yii2-asset-ahnames/src/config/params.php')),
     [
         'passwordResetPage' => 'https://ahnames.com/login/remind',
         'signupPage'        => 'https://ahnames.com/registration',
