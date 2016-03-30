@@ -25,16 +25,16 @@
     ],
     "require": {
         "php": "^5.5|^7.0",
-        "ahnames/yii2-asset-ahnames": "*",
         "hiqdev/composer-asset-plugin": "*",
         "hiqdev/composer-extension-plugin": "*",
+        "ahnames/yii2-asset-ahnames": "*",
         "hiqdev/hiam-core": "*"
     },
     "require-dev": {
-        "hiqdev/yii2-hiam-authclient": "*@dev",
-        "hiqdev/yii2-theme-adminlte": "*@dev",
         "hiqdev/composer-asset-plugin": "*@dev",
         "hiqdev/composer-extension-plugin": "*@dev",
+        "hiqdev/yii2-hiam-authclient": "*@dev",
+        "hiqdev/yii2-theme-adminlte": "*@dev",
         "hiqdev/hiam-core": "*@dev"
     },
     "autoload": {
@@ -43,6 +43,6 @@
         }
     },
     "extra": {
-        "plugin-config": "src/plugin-config.php"
+        "extension-config": "src/extension-config.php"
     }
 }
