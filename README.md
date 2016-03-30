@@ -6,8 +6,8 @@ AHnames HIAM
 [![Latest Stable Version](https://poser.pugx.org/ahnames/hiam/v/stable)](https://packagist.org/packages/ahnames/hiam)
 [![Total Downloads](https://poser.pugx.org/ahnames/hiam/downloads)](https://packagist.org/packages/ahnames/hiam)
 [![Build Status](https://img.shields.io/travis/ahnames/hiam.svg)](https://travis-ci.org/ahnames/hiam)
-[![Code Coverage](https://scrutinizer-ci.com/g/ahnames/hiam/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hiam/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ahnames/hiam/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hiam/?branch=master)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/ahnames/hiam.svg)](https://scrutinizer-ci.com/g/ahnames/hiam/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ahnames/hiam.svg)](https://scrutinizer-ci.com/g/ahnames/hiam/)
 [![Dependency Status](https://www.versioneye.com/php/ahnames:hiam/dev-master/badge.svg)](https://www.versioneye.com/php/ahnames:hiam/dev-master)
 
 [HIAM](http://hiqdev.com/hiam) is the Identity and Access Management server.

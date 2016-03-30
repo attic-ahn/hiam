@@ -4,6 +4,7 @@ ahnames/hiam commits history
 ## Under development
 
 - Changed: redone to HiDev initialization
+    - 4cfb3ed 2016-02-23 used @vendor alias instead of project (sol@hiqdev.com)
     - e2e292b 2016-02-20 fixed requirements (sol@hiqdev.com)
     - 8524bd9 2016-02-20 change package type to library <- project (sol@hiqdev.com)
     - 6e1cf60 2016-02-20 changed license to proprietary (sol@hiqdev.com)
