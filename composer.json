@@ -1,7 +1,7 @@
 {
     "name": "ahnames/hiam",
-    "type": "project",
-    "description": "This is AHnames realization of HIAM",
+    "type": "yii2-extension",
+    "description": "HIAM for AHnames",
     "keywords": [
         "ahnames",
         "hiam",
@@ -25,17 +25,13 @@
     ],
     "require": {
         "php": "^5.5|^7.0",
-        "hiqdev/composer-asset-plugin": "*",
         "hiqdev/composer-extension-plugin": "*",
-        "ahnames/yii2-asset-ahnames": "*",
-        "hiqdev/hiam-core": "*"
+        "ahnames/yii2-asset-ahnames": "<2.0",
+        "hiqdev/hiam-core": "<2.0"
     },
     "require-dev": {
-        "hiqdev/composer-asset-plugin": "*@dev",
-        "hiqdev/composer-extension-plugin": "*@dev",
-        "hiqdev/yii2-hiam-authclient": "*@dev",
-        "hiqdev/yii2-theme-adminlte": "*@dev",
-        "hiqdev/hiam-core": "*@dev"
+        "hiqdev/hidev-php": "<2.0",
+        "ahnames/hidev-vendor": "<2.0"
     },
     "autoload": {
         "psr-4": {
@@ -43,6 +39,15 @@
         }
     },
     "extra": {
-        "extension-config": "src/extension-config.php"
-    }
+        "extension-plugin": {
+            "hisite-config": "src/hisite-config.php"
+        }
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.hiqdev.com"
+        }
+    ]
 }

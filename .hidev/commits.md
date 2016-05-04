@@ -3,7 +3,8 @@ ahnames/hiam commits history
 
 ## Under development
 
-- Changed: redone to HiDev initialization
+- Changed: redone to hisite style
+    - 2f1ad0e 2016-03-30 redoing to `extension-config` <- `yii2-extraconfig` (sol@hiqdev.com)
     - 3b10405 2016-03-30 + plugin config (sol@hiqdev.com)
     - 4cfb3ed 2016-02-23 used @vendor alias instead of project (sol@hiqdev.com)
     - e2e292b 2016-02-20 fixed requirements (sol@hiqdev.com)

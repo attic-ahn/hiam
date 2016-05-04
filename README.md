@@ -1,7 +1,7 @@
 AHnames HIAM
 ============
 
-**This is AHnames realization of HIAM**
+**HIAM for AHnames**
 
 [![Latest Stable Version](https://poser.pugx.org/ahnames/hiam/v/stable)](https://packagist.org/packages/ahnames/hiam)
 [![Total Downloads](https://poser.pugx.org/ahnames/hiam/downloads)](https://packagist.org/packages/ahnames/hiam)
@@ -16,7 +16,7 @@ This package provides HIAM for [AHnames](http://ahnames.com) domain registrar.
 
 ## Installation
 
-The preferred way to install this library is through [composer](http://getcomposer.org/download/).
+The preferred way to install this yii2-extension is through [composer](http://getcomposer.org/download/).
 
 Either run
 
