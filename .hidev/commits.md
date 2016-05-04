@@ -1,9 +1,13 @@
 ahnames/hiam commits history
 ----------------------------
 
-## Under development
+## 0.0.1 2016-05-04
 
 - Changed: redone to hisite style
+    - 5ff36c7 2016-05-04 merged from minii (sol@hiqdev.com)
+    - 4c6cfde 2016-05-04 used local hidev plugins (sol@hiqdev.com)
+    - 1492f6a 2016-05-04 csfixed (sol@hiqdev.com)
+    - 6b3b108 2016-05-04 + `hisite-config.php` (sol@hiqdev.com)
     - 2f1ad0e 2016-03-30 redoing to `extension-config` <- `yii2-extraconfig` (sol@hiqdev.com)
     - 3b10405 2016-03-30 + plugin config (sol@hiqdev.com)
     - 4cfb3ed 2016-02-23 used @vendor alias instead of project (sol@hiqdev.com)

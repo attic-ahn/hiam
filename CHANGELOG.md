@@ -1,7 +1,7 @@
 ahnames/hiam changelog
 ----------------------
 
-## Under development
+## 0.0.1 2016-05-04
 
 - Changed: redone to hisite style
 - Added basics
