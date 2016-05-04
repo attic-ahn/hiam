@@ -1,7 +1,7 @@
 package:
-    type:           library
+    type:           yii2-extension
     name:           hiam
-    title:          This is AHnames realization of HIAM
+    title:          HIAM for AHnames
     headline:       AHnames HIAM
     keywords:       ahnames, hiam, login, access management
     namespace:      ahnames\hiam
@@ -10,6 +10,3 @@ package:
 
         This package provides HIAM for [AHnames](http://ahnames.com) domain registrar.
 
-require:
-    hiqdev/hidev-php:     "*"
-    ahnames/hidev-vendor: "*"

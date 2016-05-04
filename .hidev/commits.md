@@ -3,7 +3,10 @@ ahnames/hiam commits history
 
 ## Under development
 
-- Changed: redone to HiDev initialization
+- Changed: redone to `hisite` style
+    - 4c6cfde 2016-05-04 used local hidev plugins (sol@hiqdev.com)
+    - 1492f6a 2016-05-04 csfixed (sol@hiqdev.com)
+    - 6b3b108 2016-05-04 + `hisite-config.php` (sol@hiqdev.com)
     - 4cfb3ed 2016-02-23 used @vendor alias instead of project (sol@hiqdev.com)
     - e2e292b 2016-02-20 fixed requirements (sol@hiqdev.com)
     - 8524bd9 2016-02-20 change package type to library <- project (sol@hiqdev.com)
