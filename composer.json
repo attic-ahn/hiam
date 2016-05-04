@@ -32,5 +32,16 @@
         "psr-4": {
             "ahnames\\hiam\\": "src"
         }
-    }
+    },
+    "extra": {
+        "extension-plugin": {
+            "hisite-config": "src/hisite-config.php"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.hiqdev.com"
+        }
+    ]
 }
