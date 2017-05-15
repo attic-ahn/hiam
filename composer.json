@@ -24,14 +24,14 @@
         }
     ],
     "require": {
-        "php": "^5.5|^7.0",
-        "hiqdev/composer-extension-plugin": "*",
-        "ahnames/yii2-asset-ahnames": "<2.0",
-        "hiqdev/hiam-core": "<2.0"
+        "hiqdev/hiam": "<2.0 || dev-master",
+        "hiqdev/hiam-mrdp": "<2.0 || dev-master",
+        "hiqdev/hipanel-rbac": "<2.0 || dev-master",
+        "hiqdev/yii2-theme-adminlte": "<2.0 || dev-master"
     },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
-        "ahnames/hidev-vendor": "<2.0"
+        "ahnames/hidev-ahnames": "<2.0"
     },
     "autoload": {
         "psr-4": {
@@ -39,8 +39,8 @@
         }
     },
     "extra": {
-        "extension-plugin": {
-            "hisite-config": "src/hisite-config.php"
+        "config-plugin": {
+            "params": "src/config/params.php"
         }
     },
     "minimum-stability": "dev",
